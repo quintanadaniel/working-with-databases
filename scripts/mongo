@@ -1,0 +1,34 @@
+// show all dbs
+show dbs
+
+// connect to the database
+use nobel
+
+// show the collections
+show collections
+
+// run using as prefix db
+db.nobelPrizes.find()
+db.laureates.find()
+
+db.nobelPrizes.countDocuments()
+db.laureates.countDocuments({"birth.place.city.en": ("Montclair, NJ")})
+
+db.laureates.countDocuments({"birth.place": {"$exists": true}})
+db.laureates.countDocuments({"birth.place": {"$exists": false}})
+
+db.laureates.find({"nobelPrizes.category.en": "Physics"})
+
+db.nobelPrizes.distinct("category.en", {"awardYear": "1901"})
+
+db.laureates.find({}, { "id": 1, "_id": 0 }).sort({ "id": 1 })
+db.nobelPrizes.find({},{"laureates.id":1}).sort({ "laureates.id": -1 })
+
+db.nobelPrizes.aggregate([
+    {"$match": {"category.en": {"$in": db.nobelPrizes.distinct("category.en", {"awardYear": "1901"})}}},
+    {"$project": {"awardYear": 1, "category.en": 1}},
+    {"$sort": {"awardYear": -1}}
+])
+
+db.nobelPrizes.find({"awardYear": {"$gt":"1966"}})
+db.nobelPrizes.find({})

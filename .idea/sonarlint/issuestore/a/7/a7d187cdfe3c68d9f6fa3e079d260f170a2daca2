@@ -1,0 +1,16 @@
+
+‹python:S1192ƒ3"LDefine a constant instead of duplicating this literal "Select[Any]" 3 times.(«ëìÿJ$1404b5aa-3e7c-492e-88b5-33df56fcc013
+spython:S1066À%"/Merge this if statement with the enclosing one.(¸˜ŒÿıÿÿÿÿJ$1cffb1af-5200-4112-bfcc-5e3ddb561f9f
+“python:S3776ğ
+"TRefactor this function to reduce its Cognitive Complexity from 46 to the 15 allowed.(Å¹”ËJ$f9badf65-e2d7-4c22-b991-a7557bcca413
+™python:S2638Û"UChange this method signature to accept the same arguments as the method it overrides.(ÜˆüşÿÿÿÿJ$0582c84d-4468-4ae7-a390-e492d3db2c69
+™python:S2638"UChange this method signature to accept the same arguments as the method it overrides.(ÜˆüşÿÿÿÿJ$5a35313f-1117-4595-8d05-27d4778acffd
+˜python:S3776¥"TRefactor this function to reduce its Cognitive Complexity from 78 to the 15 allowed.(êóÈöûÿÿÿÿJ$9960ef60-5c0a-49b8-bbd1-10924569760b
+˜python:S1186"YAdd a nested comment explaining why this method is empty, or complete the implementation.(·ş“‡J$e058fcc3-f606-4de6-8426-e59b71b480f5
+python:S1186¼"YAdd a nested comment explaining why this method is empty, or complete the implementation.(‚ÏñÙùÿÿÿÿJ$ca328b9c-0c10-41a6-8b7b-3dcaaf299390
+˜python:S1186¿"YAdd a nested comment explaining why this method is empty, or complete the implementation.(·ş“‡J$37134d68-09ea-4be8-a1cd-5921ef01b02f
+bpython:S125ş"Remove this commented out code.(Š÷ŸÀşÿÿÿÿJ$434c82ca-413c-45a6-950e-d4c59c5b9ae0
+spython:S1135¡!"4Complete the task associated to this "TODO" comment.(´ØÍíJ$019f3c14-f363-4640-87f6-b079e1e85b14
+˜python:S3776Ò#"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(¼¿ù÷ÿÿÿÿÿJ$1c47d9a4-a0ef-480b-8499-b0e634dafc87
+“python:S3776¹%"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(öğß—J$c5be2874-45d6-46d0-91ae-a7151b04c1ec
+spython:S1135í3"4Complete the task associated to this "TODO" comment.(¿ŠÕªJ$3e5874e4-680e-4cd1-9c8b-5c6d48fe8e3e
