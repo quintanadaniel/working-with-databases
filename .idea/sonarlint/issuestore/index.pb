@@ -22,3 +22,13 @@ C
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+o
+?working_pandas/analyzing_marketing_campaigns_using_pandas.ipynb,4/5/456b51396296af8b3aff17ef246ab20e06af0f5a
+I
+input_files/marketing.csv,3/b/3b47d9f61888b07366a0eba9848b4cb83958d071
+V
+&working_mongodb/mongo_nobel_data.ipynb,1/6/16541c47df1d4b92339f843ffce765338f7734aa
+W
+'working_postgres/connecting_postgres.py,6/f/6f682b51703a457c019584bddcfbaf76a0c68fb9
+e
+5working_sqlalchemy/playing_sqlalchemy_and_mysql.ipynb,d/a/daf19361880797319fe1dabfb2ff63fd670fc32c
